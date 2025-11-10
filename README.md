@@ -1,4 +1,4 @@
-## 🧠 Hi, I’m Ishrak Iltut  
+## Hi, I’m Ishrak Iltut  
 **Product Builder at AWS Applied AI | Focused on Agentic and LLM Systems***
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
