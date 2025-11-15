@@ -37,6 +37,7 @@ I believe the best AI PMs do more than write PRDs. They prototype, test, and ite
 | [**ai-simulation-framework**](https://github.com/iltutishrak/ai-simulation-framework) | Scenario simulation and decision evaluation sandbox. |
 | [**ai-pm-templates**](https://github.com/iltutishrak/ai-pm-templates) | PRD, prompt, and evaluation templates for AI PMs. |
 | [**ai-metrics-guide**](https://github.com/iltutishrak/-ai-metrics-guide) | Key reasoning and reliability metrics reference for PMs. |
+| [**hallucination-detection-lab**](https://github.com/iltutishrak/hallucination-detection-lab) | Simple playground for detecting potential hallucinations in model outputs using mock factual checks. |
 
 ---
 
