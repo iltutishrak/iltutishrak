@@ -36,7 +36,7 @@ I believe the best AI PMs do more than write PRDs. They prototype, test, and ite
 | [**sandbox-orchestrator**](https://github.com/iltutishrak/sandbox-orchestrator) | Modular orchestration of multiple reasoning agents. |
 | [**ai-simulation-framework**](https://github.com/iltutishrak/ai-simulation-framework) | Scenario simulation and decision evaluation sandbox. |
 | [**ai-pm-templates**](https://github.com/iltutishrak/ai-pm-templates) | PRD, prompt, and evaluation templates for AI PMs. |
-| [**ai-metrics-guide**](https://github.com/iltutishrak/ai-metrics-guide) | Key reasoning and reliability metrics reference for PMs. |
+| [**ai-metrics-guide**](https://github.com/iltutishrak/-ai-metrics-guide) | Key reasoning and reliability metrics reference for PMs. |
 
 ---
 
