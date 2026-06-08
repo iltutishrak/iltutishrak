@@ -8,9 +8,10 @@ I spend my time on the part of AI that is easy to underrate: not the model itsel
 
 #### 🔭 What I'm building
 
-- **[Growth-Lab](https://github.com/iltutishrak/Growth-Lab)** — a single-file growth model for a usage-based AI API platform. Funnel and cohort simulator, an A/B experiment evaluator (frequentist, Bayesian, and a power guardrail), and a Claude-powered analyst that turns the numbers into a written growth brief. Zero dependencies, reads top to bottom.
-- **[evals](https://github.com/iltutishrak/llm-evaluation-playground)** — a tiny LLM evaluation harness that validates its own judge. It shows how exact-match scoring undercounts correct answers, how an LLM judge recovers them, and why you still have to grade the judge against human ground truth before you trust its number. One file, Wilson confidence intervals, runs offline.
-- **[claude-skills](https://github.com/iltutishrak/claude-skills)** — a personal suite of 12 Claude skills spanning CLI workflows, agent loops, hooks, and MCP connectors. The tools I use to make my own days faster.
+- **[Growth-Lab](https://github.com/iltutishrak/Growth-Lab)**. A single-file growth model for a usage-based AI API platform. Funnel and cohort simulator, an A/B experiment evaluator (frequentist, Bayesian, and a power guardrail), and a Claude-powered analyst that turns the numbers into a written growth brief. Zero dependencies, reads top to bottom.
+- **[evals](https://github.com/iltutishrak/llm-evaluation-playground)**. A tiny LLM evaluation harness that validates its own judge. It shows how exact-match scoring undercounts correct answers, how an LLM judge recovers them, and why you still have to grade the judge against human ground truth before you trust its number. One file, Wilson confidence intervals, runs offline.
+- **[swe-eval](https://github.com/iltutishrak/swe-eval)**. A SWE-bench-style agentic coding harness that grades by execution, not by eyeballing diffs. Held-out pytest suites decide pass@1, every attempt gets a full transcript, a reward-hacking probe separates honest fixes from visible-test gaming, and it runs real SWE-bench Verified instances locally without Docker. Compares Claude across the Opus, Sonnet, and Haiku tiers.
+- **[claude-skills](https://github.com/iltutishrak/claude-skills)**. A personal suite of 12 Claude skills spanning CLI workflows, agent loops, hooks, and MCP connectors. The tools I use to make my own days faster.
 
 #### 🛠️ What I work on
 
